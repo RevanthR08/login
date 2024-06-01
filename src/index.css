@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('./comforlog/Assets/logobg2.jpg') no-repeat;
+    background-size:cover;
+    background-position: center;
+  
+}
+.App{
+    font-family: sans-serif;
+    text-align: center;
+}
